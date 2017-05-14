@@ -16,10 +16,7 @@ namespace AirBot
 
 		public void Get()
 		{
-			var r = _airOffert.GetUrlToOFfert();
 			var result = _webClient.DownloadString(_airOffert.GetUrlToOFfert());
-			var ss = "ss";
-
 		}
 	}
 }

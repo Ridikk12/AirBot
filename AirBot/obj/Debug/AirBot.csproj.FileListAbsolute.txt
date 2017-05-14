@@ -1,9 +1,9 @@
 c:\users\ano\documents\visual studio 2015\Projects\AirBot\AirBot\bin\Debug\AirBot.exe.config
 c:\users\ano\documents\visual studio 2015\Projects\AirBot\AirBot\bin\Debug\AirBot.exe
 c:\users\ano\documents\visual studio 2015\Projects\AirBot\AirBot\bin\Debug\AirBot.pdb
-c:\users\ano\documents\visual studio 2015\Projects\AirBot\AirBot\obj\Debug\AirBot.csprojResolveAssemblyReference.cache
 c:\users\ano\documents\visual studio 2015\Projects\AirBot\AirBot\obj\Debug\AirBot.Form1.resources
 c:\users\ano\documents\visual studio 2015\Projects\AirBot\AirBot\obj\Debug\AirBot.Properties.Resources.resources
 c:\users\ano\documents\visual studio 2015\Projects\AirBot\AirBot\obj\Debug\AirBot.csproj.GenerateResource.Cache
 c:\users\ano\documents\visual studio 2015\Projects\AirBot\AirBot\obj\Debug\AirBot.exe
 c:\users\ano\documents\visual studio 2015\Projects\AirBot\AirBot\obj\Debug\AirBot.pdb
+C:\Users\Ano\documents\visual studio 2015\Projects\AirBot\AirBot\obj\Debug\AirBot.UserInterface.Views.RyanairConfig.resources
